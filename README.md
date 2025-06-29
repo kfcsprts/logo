@@ -839,8 +839,8 @@ https://thumbs.dreamstime.com/b/flag-las-palmas-de-gran-canaria-canary-islands-f
 
 Hellas Verona
 
-https://1000logos.net/wp-content/uploads/2021/02/Hellas-Verona-logo.jpg
 
+https://1000logos.net/wp-content/uploads/2021/02/Hellas-Verona-logo.jpg
 Le Havre AC
 
 https://static.vecteezy.com/system/resources/previews/028/100/548/non_2x/le-havre-ac-club-logo-symbol-black-ligue-1-football-french-abstract-design-illustration-free-vector.jpg
@@ -848,6 +848,22 @@ https://static.vecteezy.com/system/resources/previews/028/100/548/non_2x/le-havr
 Real Sociedad
 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4gQ_tzq9LKtXdn3PHxb02SVEIIoXkr5Gm9A&s
+
+Inter Miami CF
+
+https://logowik.com/content/uploads/images/inter-miami-cf9815.jpg
+
+
+Palmeiras
+
+https://logowik.com/content/uploads/images/palmeiras5772.jpg
+
+
+Seattle Sounders FC
+
+
+https://logodownload.org/wp-content/uploads/2017/02/psg-logo-escudo-paris-saint-germain.png
+
 
 Girona
 
